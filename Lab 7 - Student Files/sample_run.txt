@@ -1,0 +1,69 @@
+Enter the day you wish to park (initial cap, fully spelled out): Friday
+Enter the hour (0..23) you wish to park (Ex: 7 for 7 AM, 19 for 7 PM): 10
+Enter the minute (0..59) you wish to park: 15
+Enter the street (all lower case letters) you wish to park on: ash
+Parking on ash street is allowed on Friday at 10:15
+
+
+------------------------------------------------------------------------------
+
+
+Enter the day you wish to park (initial cap, fully spelled out): Today
+It appears you entered the invalid day name "Today".
+Days of the week must:
+   a) start with a capital letter,
+   b) be fully spelled out, and
+   c) be entered on its own line.
+Please make corrections and try your query again.
+
+
+------------------------------------------------------------------------------
+
+
+Enter the day you wish to park (initial cap, fully spelled out): W
+Enter the hour (0..23) you wish to park (Ex: 7 for 7 AM, 19 for 7 PM): 24
+It appears you entered the invalid hour "24".
+Hours range from 0..23
+Please make corrections and try your query again.
+
+
+------------------------------------------------------------------------------
+
+
+Enter the day you wish to park (initial cap, fully spelled out): R
+Enter the hour (0..23) you wish to park (Ex: 7 for 7 AM, 19 for 7 PM): 18
+Enter the minute (0..59) you wish to park: 65
+It appears you entered the invalid minute "65".
+Minutes range from 0..59
+Please make corrections and try your query again.
+
+
+------------------------------------------------------------------------------
+
+
+Enter the day you wish to park (initial cap, fully spelled out): u
+Enter the hour (0..23) you wish to park (Ex: 7 for 7 AM, 19 for 7 PM): 12
+Enter the minute (0..59) you wish to park: 45
+Enter the street (all lower case letters) you wish to park on: Date
+There is no information about a street named "Date".  Perhaps you want to try again?
+
+
+------------------------------------------------------------------------------
+
+
+Enter the day you wish to park (initial cap, fully spelled out): s
+Enter the hour (0..23) you wish to park (Ex: 7 for 7 AM, 19 for 7 PM): 9
+Enter the minute (0..59) you wish to park: 0
+Enter the street (all lower case letters) you wish to park on: cedar
+Parking on cedar street is allowed on Saturday at 9:00
+
+
+------------------------------------------------------------------------------
+
+
+Enter the day you wish to park (initial cap, fully spelled out): s
+Enter the hour (0..23) you wish to park (Ex: 7 for 7 AM, 19 for 7 PM): 22
+Enter the minute (0..59) you wish to park: 20
+Enter the street (all lower case letters) you wish to park on: cedar
+Parking on cedar street is not allowed on Saturday at 22:20
+12:41:04 thomas@Bettens-002:SourceCode$

@@ -1,0 +1,1 @@
+Enter the day you wish to park (initial cap, fully spelled out): Enter the hour (0..23) you wish to park (Ex: 7 for 7 AM, 19 for 7 PM): Enter the minute (0..59) you wish to park: Enter the street (all lower case letters) you wish to park on: Parking on ash street is allowed on Friday at 10:15

@@ -1,0 +1,20 @@
+---
+BasedOnStyle:    InheritParentConfig
+
+# Included in your point-of-departure student files is a file called _clang_format.  The contents of this file overrides the
+# baseline used to grade your work.  Its intent to offer you some flexibility in choosing your style.  If, for example, you can’t
+# live with the Allman brace style, you may pick another brace style by setting the BreakBeforeBraces option to something else, say
+# Attach.  For a complete set of options to tweak, see Clang-Format Style Options.
+#
+# That said, there is nothing you need to do.  Simply submit _clang_format unchanged with all your other files.  But if you do want
+# to be graded against a different style, submit your modified _clang_format file.  Keep in mind that no tool will ever be able to
+# format your code perfectly.  Formatting tools are a starting point.  Ultimately, you the human must ensure your code is of high
+# quality, readable, and maintainable.
+#
+# See Clang-Format Style Options @ https://releases.llvm.org/22.1.0/tools/clang/docs/ClangFormatStyleOptions.html
+
+
+# To change the way curly braces are placed, uncomment the following line.  Leading spaces are signifigant.
+# Legal values:  Attach|Linux|Mozilla|Stroustrup|Allman|Whitesmiths|GNU|WebKit|Custom
+#BreakBeforeBraces: Attach
+...
